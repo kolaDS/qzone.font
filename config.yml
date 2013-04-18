@@ -110,6 +110,14 @@ font:
 glyphs:
 
   -
+    css: checkin-circle2
+    code: 0x6f
+    uid: 08ad9e442f6586e040e28f95dcb15640
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [checkin,circle,qzone]
+  -
     css: qzone
     code: 0xe800
     uid: c64623255a4a7c72436b199b05296c4f
